@@ -36,7 +36,7 @@ You can watch the demo video [here](https://youtu.be/I7lTdXfyhiI)
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/sudoku-solver.git
+    git clone https://github.com/Zixu203/ImgSudokuSolver.git
     cd sudoku-solver
     ```
 
